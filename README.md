@@ -14,3 +14,4 @@ Our tracker will be useful due to its ease of use and the ability to see perform
 ### Communication and Sharing:
 * Communication Tool: Microsoft Teams
 * Project github link: https://github.com/feifeilin666/D532
+* shinyapps.io linK: https://feifeilin666.shinyapps.io/d532/
