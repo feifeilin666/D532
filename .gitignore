@@ -2,3 +2,4 @@
 *.pyo
 
 rsconnect-python/
+.DS_Store
