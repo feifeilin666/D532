@@ -15,10 +15,13 @@
   },
   "files": {
     "requirements.txt": {
-      "checksum": "d199bfc1142124065af918207c1006df"
+      "checksum": "678d96e998db50d68698b0c70b1555cc"
+    },
+    "Stocks_Dataset.csv": {
+      "checksum": "7b433ab42d3aeb1f7ff3cf388af2bd81"
     },
     "app.py": {
-      "checksum": "a715ad1e7dc50eb357f874acd577517e"
+      "checksum": "8ee308b457802772abe4947cb7ebdb10"
     }
   }
 }
